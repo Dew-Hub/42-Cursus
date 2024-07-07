@@ -24,9 +24,9 @@ Bu depo, 42 Piscine programına ait projeleri içermektedir. Projeler C, Shell v
 | [C06](https://github.com/Dew-Hub/42-Piscine/tree/master/C06) | ![100%](https://img.shields.io/badge/success-100%25-brightgreen) |
 | [C07](https://github.com/Dew-Hub/42-Piscine/tree/master/C07) | ![60%](https://img.shields.io/badge/success-60%25-brightgreen) |
 
-## Exam Projeleri
+## Exam
 
-| Proje       | Bitirme Puanı             |
+| Exam        | Bitirme Puanı             |
 |-------------|---------------------------|
 | [Exam 00](https://github.com/Dew-Hub/42-Piscine/tree/master/Exam00) | ![30%](https://img.shields.io/badge/success-30%25-brightgreen) |
 | [Exam 01](https://github.com/Dew-Hub/42-Piscine/tree/master/Exam01) | ![80%](https://img.shields.io/badge/success-80%25-brightgreen) |
