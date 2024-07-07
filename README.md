@@ -37,15 +37,15 @@ Bu projeleri kullanmak için, her bir projenin README dosyasını kontrol edin v
 
 Katkıda bulunmak için lütfen bir pull request gönderin veya bir issue açın. Her türlü katkı değerlidir.
 
+## İletişim
+
+42 Ana eğitim öğrencilerinin, Havuz öğrencilerine birebir yardım etmesi mümkün değildir. Ancak projelerime örnek olarak bakabilirsiniz. Eğer teşekkür etmek veya başka bir konuda iletişime geçmek isterseniz, lütfen [iletişime geçin](https://github.com/Dew-Hub/42-Piscine/issues).
+
+
 ## Lisans
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
-
-## İletişim
-
-42 Ana eğitim öğrencilerinin, Havuz öğrencilerine birebir yardım etmesi mümkün değildir. Ancak projelerime örnek olarak bakabilirsiniz. Eğer teşekkür etmek veya başka bir konuda iletişime geçmek isterseniz, lütfen [iletişime geçin](https://github.com/Dew-Hub/42-Piscine/issues).
 
 ---
 
