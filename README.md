@@ -23,6 +23,7 @@ Bu depo, 42 Piscine programına ait projeleri içermektedir. Projeler C, Shell v
 | [C05](https://github.com/Dew-Hub/42-Piscine/tree/master/C05) | ![80%](https://img.shields.io/badge/success-80%25-brightgreen) |
 | [C06](https://github.com/Dew-Hub/42-Piscine/tree/master/C06) | ![100%](https://img.shields.io/badge/success-100%25-brightgreen) |
 | [C07](https://github.com/Dew-Hub/42-Piscine/tree/master/C07) | ![60%](https://img.shields.io/badge/success-60%25-brightgreen) |
+| [Rush 00](https://github.com/Dew-Hub/42-Piscine/tree/master/Rush00) | ![116%](https://img.shields.io/badge/success-116%25-brightgreen) |
 
 ## Exam
 
@@ -32,7 +33,6 @@ Bu depo, 42 Piscine programına ait projeleri içermektedir. Projeler C, Shell v
 | [Exam 01](https://github.com/Dew-Hub/42-Piscine/tree/master/Exam01) | ![80%](https://img.shields.io/badge/success-80%25-brightgreen) |
 | [Exam 02](https://github.com/Dew-Hub/42-Piscine/tree/master/Exam02) | ![60%](https://img.shields.io/badge/success-60%25-brightgreen) |
 | [Final Exam](https://github.com/Dew-Hub/42-Piscine/tree/master/FinalExam) | ![48%](https://img.shields.io/badge/success-48%25-brightgreen) |
-| [Rush 00](https://github.com/Dew-Hub/42-Piscine/tree/master/Rush00) | ![116%](https://img.shields.io/badge/success-116%25-brightgreen) |
 
 ## Kurulum ve Kullanım
 
