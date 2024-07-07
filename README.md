@@ -6,14 +6,14 @@ Bu depo, 42 Piscine programına ait projeleri içermektedir. Projeler C, Shell v
 
 ## Shell Projeleri
 
-| Proje     | Bitirme Puanı              |
+| Proje     | Success Rate              |
 |-----------|----------------------------|
 | [SHELL00](https://github.com/Dew-Hub/42-Piscine/tree/master/SHELL00) | ![85%](https://img.shields.io/badge/success-85%25-brightgreen) |
 | [SHELL01](https://github.com/Dew-Hub/42-Piscine/tree/master/SHELL01) | ![70%](https://img.shields.io/badge/success-70%25-brightgreen) |
 
 ## C Projeleri
 
-| Proje   | Bitirme Puanı             |
+| Proje   | Success Rate             |
 |---------|---------------------------|
 | [C00](https://github.com/Dew-Hub/42-Piscine/tree/master/C00) | ![85%](https://img.shields.io/badge/success-85%25-brightgreen) |
 | [C01](https://github.com/Dew-Hub/42-Piscine/tree/master/C01) | ![100%](https://img.shields.io/badge/success-100%25-brightgreen) |
@@ -26,7 +26,7 @@ Bu depo, 42 Piscine programına ait projeleri içermektedir. Projeler C, Shell v
 
 ## Exam
 
-| Exam        | Bitirme Puanı             |
+| Exam        | Success Rate             |
 |-------------|---------------------------|
 | [Exam 00](https://github.com/Dew-Hub/42-Piscine/tree/master/Exam00) | ![30%](https://img.shields.io/badge/success-30%25-brightgreen) |
 | [Exam 01](https://github.com/Dew-Hub/42-Piscine/tree/master/Exam01) | ![80%](https://img.shields.io/badge/success-80%25-brightgreen) |
