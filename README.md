@@ -1,6 +1,4 @@
-# 42-Piscine | Havuz
-
-![42 Badge](https://img.shields.io/badge/42-Piscine-blue)
+# 42-Piscine | Havuz ![42 Badge](https://img.shields.io/badge/42-Piscine-blue)
 
 Bu depo, 42 Piscine programına ait projeleri içermektedir. Projeler C, Shell ve Exam olarak üçe ayrılmıştır.
 
